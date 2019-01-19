@@ -1,0 +1,99 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ 
+header
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic2.jpeg);
+	height: auto;
+	background-size: cover;   
+	background-position: center;   
+
+}
+
+.main-nav  
+{
+	float:right;
+	list-style: none;
+	margin-top: 10px;
+	padding-right: 100px;
+	padding-top: 0px;
+
+	
+}
+.main-nav li
+{
+	display:inline-block;
+}
+
+
+
+.main-nav li a 
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto",sans-serif;
+	font-size:15px;
+
+}
+.main-nav li a:hover {
+	border: 2px solid white;
+	background-color: red;
+
+}
+.logo img 
+{
+	width:200px;
+	height: auto;
+	padding-top:50px;
+	padding-left: 200px;
+	float:left;
+	 
+}
+
+.p1 {
+  padding-top: 80px;
+  padding-left:450px; 
+  padding-bottom: 0px;
+}
+
+.p2 {
+  padding-top: 0px;
+  padding-left:490px; 
+  padding-bottom: 0px;
+}
+.Group1 {
+	display: block;
+  padding-left:200px;
+  padding-right:200px;
+  padding-top:120px; 
+  width: 70%;
+}
+
+.motto{
+	padding-left:490px;
+	float:center;
+	padding-bottom: 50px;
+}
+
+.header1{
+	float:center;
+	background-color:lightblue;
+	padding-left: 300px;
+}
+
+.Disclaimer{
+	margin-top: 30px;
+	margin-left: 150px;
+	margin-right: 150px;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic3.png);
+
+
+}
+
+.copyright{
+  padding-left: 580px;
+  margin-top: 80px;
+}

@@ -1,0 +1,144 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ 
+header
+{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpeg);
+  height: auto;
+  background-size: cover;   
+  background-position: center;   
+
+}
+
+body{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(cup.jpg);
+  height: auto;
+  background-size: cover;   
+  background-position: center;  
+
+}
+
+.main-nav  
+{
+  float:right;
+  list-style: none;
+  margin-top: 10px;
+  padding-right: 100px;
+  padding-top: 0px;
+
+  
+}
+.main-nav li
+{
+  display:inline-block;
+}
+
+
+
+.main-nav li a 
+{
+  color: white;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: "Roboto",sans-serif;
+  font-size:15px;
+
+}
+.main-nav li a:hover {
+  border: 2px solid white;
+  background-color: red;
+
+}
+.logo img 
+{
+  width:200px;
+  height: auto;
+  padding-top:50px;
+  padding-left: 200px;
+  float:left;
+   
+}
+
+.p1 {
+  padding-top: 80px;
+  padding-left:450px; 
+  padding-bottom: 0px;
+  font-family: "Roboto",sans-serif;
+}
+
+.p2 {
+  padding-top: 0px;
+  padding-left:490px; 
+  padding-bottom: 0px;
+  font-family: "Roboto",sans-serif;
+}
+
+.motto{
+  padding-left:490px;
+  float:center;
+  padding-bottom: 50px;
+  font-family: "Roboto",sans-serif;
+}
+
+.header1{
+  float:center;
+  background-color:lightblue;
+  padding-left: 300px;
+  font-family: "Roboto",sans-serif;
+}
+
+.video{
+  margin-top: 60px;
+ float:center;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+  padding-top: 120px;
+  padding-left: 80px;
+
+}
+
+.courtesy{
+   float:center;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+  padding-left: 300px;
+  font-family: "Roboto",sans-serif;
+  padding-bottom: 20px;
+}
+
+.Company{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+  padding-left: 150px;
+  font-family: "Roboto",sans-serif;
+  padding-bottom: 30px;
+}
+
+.about {
+   font-family: "Roboto",sans-serif;
+  background-color: white;
+  margin-top: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  float:right;
+  margin-bottom: 10px;
+}
+
+.logos {
+  background-color: white;
+  margin-bottom: 50px;
+
+}
+.product{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+
+}
+
+.copyright{
+  padding-left: 580px;
+}
+

@@ -1,0 +1,251 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ 
+header
+{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background_services.jpg);
+  height: auto;
+  background-size: cover;   
+  background-position: center;   
+
+}
+
+.main-nav  
+{
+  float:right;
+  list-style: none;
+  margin-top: 10px;
+  padding-right: 100px;
+  padding-top: 0px;
+
+  
+}
+.main-nav li
+{
+  display:inline-block;
+}
+
+
+
+.main-nav li a 
+{
+  color: white;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: "Roboto",sans-serif;
+  font-size:15px;
+
+}
+.main-nav li a:hover {
+  border: 2px solid white;
+  background-color: red;
+
+}
+.logo img 
+{
+  width:200px;
+  height: auto;
+  padding-top:50px;
+  padding-left: 200px;
+  float:left;
+   
+}
+
+.p1 {
+  padding-top: 80px;
+  padding-left:450px; 
+  padding-bottom: 0px;
+  font-family: "Roboto",sans-serif;
+}
+
+.p2 {
+  padding-top: 0px;
+  padding-left:490px; 
+  padding-bottom: 0px;
+  font-family: "Roboto",sans-serif;
+}
+
+.motto{
+  padding-left:490px;
+  float:center;
+  padding-bottom: 50px;
+  font-family: "Roboto",sans-serif;
+}
+
+.header1{
+  float:center;
+  background-color:lightblue;
+  padding-left: 300px;
+  font-family: "Roboto",sans-serif;
+}
+
+body {
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background_services.jpg);
+  height: 100vh;
+  background-size: cover;   
+  background-position: center;  } 
+
+
+.activity{
+  font-family: "Roboto",sans-serif;
+  background-image: url(background_services);
+  padding-top: 100px;
+  padding-bottom: 50px;
+  float:right;
+}
+
+.Interview{
+  font-family:"Roboto", sans-serif;
+  background-image: url(background_services);
+  margin-top: 150px;
+  float:left;
+  margin-left: 100px;}
+
+.gallery{
+  margin-top: 50px;
+  float:left;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background_services.jpg);
+  padding-top: 0px;
+  padding-left: 150px;
+}
+
+.caption {
+   font-family: "Roboto",sans-serif;
+  background-color: white;
+  margin-top: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  float:right;
+}
+
+
+.Cctv{
+  font-family:"Roboto", sans-serif;
+  background-image: url(background_services);
+  margin-top: 50px;
+  float:left;
+  margin-left: 100px;
+}
+.gallery1{
+  margin-top: 50px;
+  float:left;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background_services.jpg);
+  padding-top: 20px;
+  padding-left: 150px;
+}
+
+
+.caption1 {
+   font-family: "Roboto",sans-serif;
+  background-color: white;
+  margin-top: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  float:right;
+}
+
+.construction{
+  font-family:"Roboto", sans-serif;
+  background-image: url(background_services);
+  margin-top: 50px;
+  float:left;
+  margin-left: 100px;
+}
+
+ .gallery2{
+  margin-top: 50px;
+  float:left;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background_services.jpg);
+  padding-top: 0px;
+  padding-left: 150px;
+}
+
+.caption2 {
+   font-family: "Roboto",sans-serif;
+  background-color: white;
+  margin-top: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  float:right;
+}
+
+
+.tracing{
+  font-family:"Roboto", sans-serif;
+  background-image: url(background_services);
+  margin-top: 50px;
+  float:left;
+  margin-left: 100px;
+}
+
+ .gallery3{
+  margin-top: 50px;
+  float:left;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background_services.jpg);
+  padding-top: 0px;
+  padding-left: 150px;
+}
+
+.caption3 {
+   font-family: "Roboto",sans-serif;
+  background-color: white;
+  margin-top: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  float:right;
+}
+
+.smart{
+  font-family:"Roboto", sans-serif;
+  background-image: url(background_services);
+  margin-top: 50px;
+  float:left;
+  margin-left: 100px;
+}
+
+.laboratory{
+  font-family:"Roboto", sans-serif;
+  background-image: url(background_services);
+  margin-top: 50px;
+  float:left;
+  margin-left: 100px;
+}
+
+.gallery4{
+  margin-top: 50px;
+  float:left;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background_services.jpg);
+  padding-top: 0px;
+  padding-left: 150px;
+}
+
+.caption4 {
+   font-family: "Roboto",sans-serif;
+  background-color: white;
+  margin-top: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  float:right;
+  margin-bottom: 70px;
+}
+
+.copyright{
+  font-family:"Roboto", sans-serif;
+  background-image: url(background_services);
+  margin-top: 50px;
+  float:left;
+  margin-left: 470px;
+
+}
